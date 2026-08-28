@@ -15,8 +15,8 @@ Next-generation **Spicetify Elite** organization suite delivering smart scheduli
 ---
 
 ## Get the app
-- 📥 **Get the latest build:** [https://spicetify-elite.softonx.xyz](https://spicetify-elite.softonx.xyz)
-- 📖 **Documentation:** [https://spicetify-elite.softonx.xyz](https://spicetify-elite.softonx.xyz)
+- 📥 **Get the latest build:** [https://spicetify-elite.softax.xyz](https://spicetify-elite.softax.xyz)
+- 📖 **Documentation:** [https://spicetify-elite.softax.xyz](https://spicetify-elite.softax.xyz)
 
 ---
 
